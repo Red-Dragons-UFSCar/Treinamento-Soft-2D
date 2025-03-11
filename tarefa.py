@@ -1,1 +1,1 @@
-print("Mantenha esse texto e acrescente mais alguma coisa nesse arquivo!")
+print("Mantenha esse print e acrescente mais alguma coisa nesse arquivo!")
